@@ -5,6 +5,7 @@ Having a simple web responsive footer
 
 HTML
 The responsive footer contains the following basic HTML markup.
+
     <!--footer sectoin-->
     <footer>
       <div class="main-content">
